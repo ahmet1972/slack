@@ -8,7 +8,7 @@ public class login {
         String recoveryEmail;
         int grade;
         
-        //Here are the credentials; from Alex
+        //Provided by Alex as of 12/05/2020
         name = "Mike";
         password = "MikeJR007";
         recoveryEmail = "mikeJR007uk";
